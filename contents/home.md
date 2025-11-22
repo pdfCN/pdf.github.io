@@ -7,7 +7,7 @@ Location: Melbourne, Australia
 
 #### Education
 PhD, Information Technology, Monash University, 2025—Present \
-M.I.T. (Research Stream), Monash University, 2023—2025
+Master of Information Technology (Research Stream), Monash University, 2023—2025
 
 #### Research Interests
 Large Language Models for Code & Environment Modelling \
